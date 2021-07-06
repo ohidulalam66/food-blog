@@ -1,5 +1,6 @@
 * {
     margin: 0;
+    text-decoration: none;
     font-family: 'Montserrat', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
@@ -23,7 +24,6 @@
     color: gray;
 }
 .link-button{
-    text-decoration: none;
     background-image: linear-gradient(orange, salmon);
     margin-top: 5px;
     padding: 20px 40px;
@@ -94,7 +94,7 @@
     padding-top: 60px;
     
 }
-.footer span {
+.footer h1 span {
     color: orange;
 }
 .footer h1 {
