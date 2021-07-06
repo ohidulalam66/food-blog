@@ -56,11 +56,11 @@
     padding: 25px 300px;
     justify-content: center;
 }
-.third-container-intro img{
+.intro-area img{
     width: 100%;
     border-radius: 25px;
 }
-.third-container-intro {
+.intro-area {
     width: 350px;
     height: 470px;
     float: left;
@@ -69,6 +69,20 @@
     border-radius: 35px;
     box-shadow: 7px 6px 21px 5px rgba(0,0,0,0.3)
 }
-.third-container-intro p {
+.intro-area p {
     line-height: 180%;
+}
+#chart {
+    display: flex;
+    width: 80%;
+    height: 80px;
+    margin: 130px 90px 1300px 90px;
+    padding: 40px;
+    align-items: center;
+    justify-content: space-around;
+    border-radius: 10px;
+    box-shadow: 7px 6px 21px 5px rgba(0,0,0,0.3)
+}
+#chart h1{
+    font-size: 40px;
 }
